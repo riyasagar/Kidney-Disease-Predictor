@@ -1,6 +1,6 @@
 # 🩺 Kidney Disease Prediction  
 
-A Machine Learning-based web application to predict the likelihood of Chronic Kidney Disease (CKD) from medical parameters. The project uses the **Random Forest algorithm** for prediction with a **Flask backend** and a simple **web-based frontend**.  
+A ** Machine Learning**-based web application that analyzes medical parameters to predict **Chronic Kidney Disease (CKD)**.  It combines a **Random Forest model** with a **Flask-powered web interface** for real-time predictions.  
 
 ---
 
