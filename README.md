@@ -1,6 +1,6 @@
 # 🩺 Kidney Disease Prediction  
 
-A ** Machine Learning**-based web application that analyzes medical parameters to predict **Chronic Kidney Disease (CKD)**.  It combines a **Random Forest model** with a **Flask-powered web interface** for real-time predictions.  
+A **Machine Learning** based web application that analyzes medical parameters to predict **Chronic Kidney Disease (CKD)**.  It combines a **Random Forest model** with a **Flask-powered web interface** for real-time predictions.  
 
 ---
 
