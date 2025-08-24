@@ -12,10 +12,10 @@ A Machine Learning-based web application to predict the likelihood of Chronic Ki
 ---
 
 ## 🛠️ Tech Stack  
-- 🐍 **Python**  
-- 🌐 **Flask**  
-- 📊 **Scikit-learn**  
-- 🧮 **Pandas, NumPy**  
+-  **Python**  
+-  **Flask**  
+-  **Scikit-learn**  
+-  **Pandas, NumPy**  
 
 ---
 
